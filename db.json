@@ -1,5 +1,5 @@
 {
-    "Usuarios":[{"id":1,"sede":"1","contraseña":"sede1"}],
-    "Concejo":[{"curso":"3-01","imagen":"https://","totalVotos":1}],
-    "Personero":[{"curso":"11-01","imagen":"https://","totalVotos":1}]
+    "Usuarios":[{"id":"1","sede":"1","contraseña":"sede1"}],
+    "Concejo":[{"id":"1","curso":"3-01","imagen":"https://","totalVotos":1}],
+    "Personero":[{"id":"1","curso":"11-01","imagen":"https://","totalVotos":1}]
 }
